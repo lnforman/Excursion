@@ -6,12 +6,34 @@ h1{
   text-align: center;
 }
 
-h2{
+.DownloadTag{
   color: Aquamarine;
   font-size: 16px;
   text-align: center;
 }
 
+h2{
+  font-family: Verdana;
+  font weight: 300;
+  font-size: 42px;
+  color: white;
+}
+
+p{
+  font-family: Verdana;
+  font-size: 21px;
+  color: Gray
+}
+
+.ExcursionRights{
+  text-align: right;
+  color: gray;
+}
+
+
 .WebsiteBackdrop{
   background-color: black;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
 }
