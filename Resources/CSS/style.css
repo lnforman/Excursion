@@ -1,0 +1,17 @@
+h1{
+  font-family: Verdana;
+  font-size: 50px;
+  font-weight; normal;
+  color: white;
+  text-align: center;
+}
+
+h2{
+  color: Aquamarine;
+  font-size: 16px;
+  text-align: center;
+}
+
+.WebsiteBackdrop{
+  background-color: black;
+}
